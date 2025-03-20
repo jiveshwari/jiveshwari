@@ -6,10 +6,10 @@ I'm passionate about **cross-lingual semantic search**, **knowledge graphs**, an
 
 ## 🌟 About Me:
 - 🎓 Master’s in Computer Science (Paderborn University)
-- 💼 Experienced in **ML/AI Engineering**, **Semantic Web Knowledge Engineering**, **Full Stack Development**, and **Project Management**
+- 💼 Experienced in **ML/AI Engineering**, **Full Stack Development**, and **Project Management**
 - 📚 Contributor to **LASS-KG project** - cross-lingual named entity linking, multilingual embeddings, and semantic alignment
 - 🖥️ Designed and implemented **fault-tolerant algorithms** and **mobile shape formation** in **C++** during my Master's project
-- 🧠 Enthusiastic about advancing **semantic technologies** with **large language models** and **embeddings**
+- 🧠 Enthusiastic about the intersection of AI and software engineering with long-tail knowledge domains.
 
 ## 🔧 Technologies & Skills:
 - **Languages & Tools**: 
