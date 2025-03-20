@@ -5,10 +5,11 @@ Hi there! I'm **Jiveshwari Chinchghare**, a **Master's student in Computer Scien
 ## 🌟 About Me:
 - 🎓 Master’s in Computer Science (Paderborn University)
 - 💼 Experienced in **ML/AI Engineering**, **Full Stack Development**, and **Project Management**
-- 📚 Contributor to **LASS-KG project** - cross-lingual named entity linking, multilingual embeddings, and semantic alignment
+- 🌐 Skilled in **Full Stack Developement** with **Front-End** (React, JavaScript, HTML/CSS), **Back-End** (Node.js, Python, C++), and **Cloud Technologies** (AWS)
+- 📚 Contributor to **LASS-KG project** - cross-lingual named entity linking, training LLMs for research and full stack development.
 - 🖥️ Designed and implemented **fault-tolerant algorithms** and **mobile shape formation** in **C++** during my Master's project
 - 🧠 Enthusiastic about the intersection of AI and software engineering with long-tail knowledge domains.
-
+- 
 ## 🔧 Technologies & Skills:
 - **Languages & Tools**: 
     - `Python`, `C++`, `JavaScript`, `HTML`, `CSS`
