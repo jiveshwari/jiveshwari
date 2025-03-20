@@ -1,8 +1,6 @@
 # Welcome to My GitHub! 👩‍💻✨
 
-Hi there! I'm **Jiveshwari Chinchghare**, a **Master's student in Computer Science** at **Paderborn University**. I specialize in **Machine Learning, Knowledge Engineering**, and **Full Stack Development**, with a strong focus on **Software Engineering** and **Data Science**. I am especially interested in how the semantic understanding of knowledge and language for an AI system can drive innovation and contribute to solving critical problems in various niche scientific domains like material science, medicine, and space exploration.
-
-I am deeply passionate about the intersection of **AI, software engineering, and data science**, and how these fields can revolutionize interdisciplinary medicine and space science. My focus during my master's was to explore how intelligent systems, built through advanced software engineering and data-driven approaches, can solve complex challenges in these domains. 
+Hi there! I'm **Jiveshwari Chinchghare**, a **Master's student in Computer Science** at **Paderborn University**. I specialize in **Machine Learning**, **Knowledge Engineering**, and **Full Stack Development**. I'm passionate about using **semantic understanding** and **neural networks** to solve complex challenges in **material science**, **medicine**, and **space exploration**. I am particularly fascinated by how the semantic understanding of knowledge and language within AI systems can fuel innovation and tackle critical challenges in specialized scientific fields such as material science, medicine, and space exploration. When combined with robust software engineering, this can lead to groundbreaking innovations that have the potential to reach and impact every individual on the planet!!!
 
 ## 🌟 About Me:
 - 🎓 Master’s in Computer Science (Paderborn University)
