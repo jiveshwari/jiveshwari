@@ -36,9 +36,8 @@ I'm passionate about **cross-lingual semantic search**, **knowledge graphs**, an
 - **Researching efficient embedding alignment strategies** for cross-lingual NLP tasks
 
 ## 💬 Let's Connect!
-- 📧 **Email**: jiveshwari.chinchghare@university.de
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jiveshwari/)
-- 🌱 [Personal Blog](https://jiveshwari.com)
+- 📧 **Email**: jiveshwaric@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jiveshwari-chinchghare/)
 
 > "Technology is best when it brings people together." – Matt Mullenweg
 
